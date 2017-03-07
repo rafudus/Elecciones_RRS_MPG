@@ -21,7 +21,7 @@ div{
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
     overflow: auto;
-    background-color: #FFE7C0;
+    background-color: lime;
     padding-left: 2%;
     padding-right: 2%;
 }
